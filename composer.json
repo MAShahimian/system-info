@@ -2,7 +2,7 @@
   "name": "radintech/system-info-module",
   "description": "System information module for the RadinTech CMS",
   "type": "library",
-  "license": "proprietary",
+  "license": "MIT",
   "version": "1.0.0",
   "require": {
     "php": "8.2 - 8.5"
