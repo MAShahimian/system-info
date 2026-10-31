@@ -12,9 +12,9 @@
       "RadinTech\\SystemInfo\\": "backend/src/"
     }
   },
-    "extra": {
-        "config-plugin": {
-            "routes": "config/routes.php"
-        }
+  "extra": {
+    "config-plugin": {
+      "routes": "config/routes.php"
     }
+  }
 }
